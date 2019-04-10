@@ -1,0 +1,21 @@
+html {
+  background: gray;
+}
+.bookclub-brand {
+  font-size: 48px;
+}
+.splashpage-parallax {
+  height: 300px;
+  width: 100%;
+  background-image: url(https://cdn-images-1.medium.com/max/2000/0*Ugp4QQOB6XvJwi-L);
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+  font-family: Srisakdi;
+  font-size: 64px;
+  line-height: 300px;
+  vertical-align: center;
+}
+.nav-links {
+  font-size: 32px;
+}

@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<table id="sort" class="table table-bordered table-hover tablesorter">
+  <thead>
+    <tr>
+      {% for item in publishers_head %}
+      <th>
+        <b>{{ item }}</b>
+      </th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for publisher in publishers_data %}
+    <tr>
+      <td><img src="{{ publisher.imageURL }}"></td>
+      <td><a href="./{{publisher.id}}">{{ publisher.name }}</a></td>
+      <td>{{ publisher.location }}</td>
+      <td>{{ publisher.founding }}</td>
+      <td>{{ publisher.parentCompany }}</td>
+      <td><a href="{{ publisher.website }}">Website</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,640 @@
+{
+    "authors": [
+        {
+            "born": "1965-07-31",
+            "name": "J. K. Rowling",
+            "education": "Bachelor of Arts",
+            "nationality": "British",
+            "description": "Joanne \"Jo\" Rowling, OBE, FRSL, pen names J. K. Rowling and Robert Galbraith, is a British novelist, screenwriter and film producer best known as the author of the Harry Potter fantasy series. ",
+            "alma_mater": "University of Exeter",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._K._Rowling",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/220px-J._K._Rowling_2010.jpg",
+            "id": 0
+        },
+        {
+            "born": "1975-12-19",
+            "name": "Brandon Sanderson",
+            "nationality": "American",
+            "description": "Brandon Sanderson is an American fantasy and science fiction writer. He is best known for his Mistborn series and his work in finishing Robert Jordan's epic fantasy series The Wheel of Time. ",
+            "alma_mater": "Brigham Young University (B.A., M.A.)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Brandon_Sanderson_sign.jpg/250px-Brandon_Sanderson_sign.jpg",
+            "id": 1
+        },
+        {
+            "born": "1943-03-26",
+            "name": "Bob Woodward",
+            "education": "Yale University, BA, 1965",
+            "description": "Robert Upshur \"Bob\" Woodward is an American investigative journalist and non-fiction author. He has worked for The Washington Post since 1971 as a reporter and is now an associate editor of the Post.\n",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Woodward",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bob_Woodward.jpg/220px-Bob_Woodward.jpg",
+            "id": 2
+        },
+        {
+            "born": "1970 (age 45\u201346)\nNew Delhi, India",
+            "name": "Siddhartha Mukherjee",
+            "nationality": "American, Indian",
+            "description": "Siddhartha Mukherjee is an Indian-born American physician, scientist, and writer best known for his 2010 book, The Emperor of All Maladies: A Biography of Cancer, which was awarded the 2011 Pulitzer Prize for General Non-Fiction. ",
+            "alma_mater": "Stanford University\nMagdalen College, Oxford\nHarvard Medical School",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Siddhartha_Mukherjee",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dr._Siddhartha_Mukherjee_2011.jpg/220px-Dr._Siddhartha_Mukherjee_2011.jpg",
+            "id": 3
+        },
+        {
+            "born": "1973-06-06",
+            "name": "Patrick Rothfuss",
+            "nationality": "American",
+            "description": "Patrick James Rothfuss is an American writer of epic fantasy. He is best known for his projected three-volume series The Kingkiller Chronicle.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Patrick-rothfuss-2014-kyle-cassidy.jpg/250px-Patrick-rothfuss-2014-kyle-cassidy.jpg",
+            "id": 4
+        },
+        {
+            "born": "1952-03-05",
+            "name": "Robin Hobb",
+            "nationality": "American",
+            "description": "Robin Hobb is a pseudonym of Margaret Astrid Lindholm Ogden, an American writer. She is best known for the books set in the Realm of the Elderlings, which started in 1995 with the publication of Assassin's Apprentice, the first book in the Farseer trilogy.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hobb",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mons089_Robin_Hobb.jpg/220px-Mons089_Robin_Hobb.jpg",
+            "id": 5
+        },
+        {
+            "born": "1951-08-24",
+            "name": "Orson Scott Card",
+            "nationality": "American",
+            "description": "Orson Scott Card is an American novelist, critic, public speaker, essayist and columnist. He writes in several genres but is known best for science fiction. ",
+            "alma_mater": "Brigham Young University\nUniversity of Utah (M.A.)\nUniversity of Notre Dame (1980s graduate student)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Orson_Scott_Card",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Orson_Scott_Card_at_BYU_Symposium_20080216_closeup.jpg/250px-Orson_Scott_Card_at_BYU_Symposium_20080216_closeup.jpg",
+            "id": 6
+        },
+        {
+            "born": "Isaak Ozimov\nBetween October 4, 1919 and January 2, 1920[1]\nPetrovichi, Russian SFSR",
+            "name": "Isaac Asimov",
+            "education": "Columbia University, PhD in Biochemistry, 1948",
+            "nationality": "Russian (early years), American",
+            "description": "Isaac Asimov was an American author and professor of biochemistry at Boston University. He was known for his works of science fiction and popular science. ",
+            "died": "1992-04-06",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Asimov",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Isaac.Asimov01.jpg/220px-Isaac.Asimov01.jpg",
+            "id": 7
+        },
+        {
+            "born": "1948-04-28",
+            "name": "Terry Pratchett",
+            "died": "2015-03-12",
+            "description": "Sir Terence David John \"Terry\" Pratchett, OBE was an English author of fantasy novels, especially comical works. He is best known for his Discworld series of 41 novels. Pratchett\"s first novel, The Carpet People, was published in 1971. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Terry_Pratchett",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/10.12.12TerryPratchettByLuigiNovi1.jpg/220px-10.12.12TerryPratchettByLuigiNovi1.jpg",
+            "id": 8
+        },
+        {
+            "born": "1952-03-11",
+            "name": "Douglas Adams",
+            "died": "2001-05-11",
+            "description": "Douglas Noel Adams was an English author, scriptwriter, essayist, humorist, satirist and dramatist.\nAdams is best known as the author of The Hitchhiker\"s Guide to the Galaxy, which originated in 1978 as a BBC radio comedy before developing into a 'trilogy' of five books that sold more than 15 million copies in his lifetime and generated a television series, several stage plays, comics, a computer game, and in 2005 a feature film. ",
+            "alma_mater": "St John's College, Cambridge",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_Adams",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Douglas_adams_portrait_cropped.jpg/220px-Douglas_adams_portrait_cropped.jpg",
+            "id": 9
+        },
+        {
+            "born": "1965-05-14",
+            "name": "Eoin Colfer",
+            "nationality": "Irish",
+            "description": "Eoin Colfer is an Irish author of children's books. He worked as a primary school teacher before he became a full-time writer. He is best known for being the author of the Artemis Fowl series. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eoin_Colfer",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Eoin_Colfer.jpg/220px-Eoin_Colfer.jpg",
+            "id": 10
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_King",
+            "name": "Stephen King",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Stephen_King%2C_Comicon.jpg/220px-Stephen_King%2C_Comicon.jpg",
+            "born": "1947-09-21",
+            "description": "Stephen Edwin King is an American author of contemporary horror, supernatural fiction, suspense, science fiction, and fantasy. His books have sold more than 350 million copies, many of which have been adapted into feature films, miniseries, television shows, and comic books. ",
+            "id": 11
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Terry_Goodkind",
+            "name": "Terry Goodkind",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TerryGoodkind_TG-studio-2005.jpg/300px-TerryGoodkind_TG-studio-2005.jpg",
+            "born": "1948 (age 67\u201368)\nOmaha, Nebraska, US",
+            "description": "Terry Goodkind is an American writer. He is known for the epic fantasy series The Sword of Truth as well as the contemporary suspense novel The Law of Nines, which has ties to his fantasy series. ",
+            "id": 12
+        },
+        {
+            "born": "1948-10-17",
+            "name": "Robert Jordan",
+            "died": "2007-09-16",
+            "description": "James Oliver Rigney, Jr., better known by his pen name Robert Jordan, was an American author of epic fantasy. He is best known for the Wheel of Time series, which comprises 14 books and a prequel novel. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Jordan",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Robert_Jordan.jpg/250px-Robert_Jordan.jpg",
+            "id": 13
+        },
+        {
+            "born": "1969-01-17",
+            "name": "Michael Jenkins Moynihan",
+            "education": "University of Colorado\nstudied language and history\nPortland State University\nB.A. in German language",
+            "nationality": "American",
+            "description": "Michael Jenkins Moynihan is an American journalist, publisher, and musician. He is best known for co-writing the book Lords of Chaos, about black metal. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Jenkins_Moynihan",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Blood_Axis_2016_4.jpg/220px-Blood_Axis_2016_4.jpg",
+            "id": 14
+        },
+        {
+            "born": "1969-06-26",
+            "name": "Lev Grossman",
+            "education": "Lexington High School, Harvard University, Yale University",
+            "description": "Lev Grossman is an American novelist and journalist, notably the author of the novels Warp, Codex, The Magicians, The Magician King, and The Magician's Land. He is a senior writer and book critic for TIME.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lev_Grossman",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lev_grossman_2011.jpg/200px-Lev_grossman_2011.jpg",
+            "id": 15
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khaled_Hosseini",
+            "name": "Khaled Hosseini",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/1/16/George_and_Laura_Bush_with_Khaled_Hosseini_in_2007_detail2.JPG",
+            "born": "1965-03-04",
+            "description": "Khaled Hosseini is an Afghan-born American novelist and physician. After graduating from college, he worked as a doctor in California, an occupation that he likened to \"an arranged marriage\". ",
+            "id": 16
+        },
+        {
+            "born": "1954-08-15",
+            "name": "Stieg Larsson",
+            "education": "1979",
+            "nationality": "Swedish",
+            "description": "Karl Stig-Erland \"Stieg\" Larsson was a Swedish journalist and writer. He is best known for writing the Millennium trilogy of crime novels, which were published posthumously and adapted as motion pictures. ",
+            "died": "2004-11-09",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stieg_Larsson",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/1/1b/Stieg_Larsson.jpg",
+            "id": 17
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Lagercrantz",
+            "name": "David Lagercrantz",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/David_Lagercrantz%2C_f%C3%B6rfattare.jpg/220px-David_Lagercrantz%2C_f%C3%B6rfattare.jpg",
+            "born": "1962-09-04",
+            "description": "David Lagercrantz is a Swedish journalist and best-selling author, internationally known as the author of I am Zlatan Ibrahimovic and The Girl in the Spider\u2019s Web, the fourth instalment in the Millennium series originated by Stieg Larsson. ",
+            "id": 18
+        },
+        {
+            "born": "1926-04-28",
+            "name": "Harper Lee",
+            "died": "2016-02-19",
+            "description": "Nelle Harper Lee, better known by her pen name Harper Lee, was an American novelist widely known for To Kill a Mockingbird, published in 1960. Immediately successful, it won the 1961 Pulitzer Prize and has become a classic of modern American literature. ",
+            "nationality": "American",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harper_Lee",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/5/5f/HarperLee_2007Nov05.jpg",
+            "id": 19
+        },
+        {
+            "born": "1963-07-19",
+            "name": "Garth Nix",
+            "nationality": "Australian",
+            "description": "Garth Richard Nix is an Australian writer who specialises in children's and young adult fantasy novels, notably the Old Kingdom, Seventh Tower and Keys to the Kingdom series. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Garth_Nix",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Garth_nix_2012.jpg/250px-Garth_nix_2012.jpg",
+            "id": 20
+        },
+        {
+            "born": "1929-06-12",
+            "name": "Anne Frank",
+            "died": "February or March 1945 (aged 15)\nBergen-Belsen concentration camp, Lower Saxony, Germany",
+            "description": "Annelies Marie Frank was a German-born diarist and writer. One of the most discussed Jewish victims of the Holocaust, she gained fame posthumously following the publication of her diary, The Diary of a Young Girl, which documents her life in hiding from 1942 to 1944, during the German occupation of the Netherlands in World War II. ",
+            "nationality": "German until 1941\nStateless from 1941",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anne_Frank",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AnneFrankSchoolPhoto.jpg/220px-AnneFrankSchoolPhoto.jpg",
+            "id": 21
+        },
+        {
+            "born": "1928-09-30",
+            "name": "Elie Wiesel",
+            "nationality": "American",
+            "description": "Eliezer \"Elie\" Wiesel KBE was a Romanian-born American Jewish writer, professor, political activist, Nobel Laureate and Holocaust survivor. ",
+            "alma_mater": "University of Paris, Sorbonne",
+            "died": "2016-07-02",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elie_Wiesel",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Elie_Wiesel_2012_Shankbone.JPG/220px-Elie_Wiesel_2012_Shankbone.JPG",
+            "id": 22
+        },
+        {
+            "born": "1880-05-29",
+            "name": "Oswald Spengler",
+            "died": "1936-05-08",
+            "description": "Oswald Arnold Gottfried Spengler was a German historian and philosopher of history whose interests included mathematics, science, and art. He is best known for his book The Decline of the West, published in 1918 and 1922, covering all of world history. ",
+            "alma_mater": "University of Munich\nUniversity of Berlin\nUniversity of Halle",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oswald_Spengler",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bundesarchiv_Bild_183-R06610%2C_Oswald_Spengler.jpg/220px-Bundesarchiv_Bild_183-R06610%2C_Oswald_Spengler.jpg",
+            "id": 23
+        },
+        {
+            "born": "1954-04-12",
+            "name": "Jon Krakauer",
+            "description": "Jon Krakauer is an American writer and mountaineer, primarily known for his writings about the outdoors, especially mountain-climbing. ",
+            "alma_mater": "Hampshire College",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jon_Krakauer",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jon_Krakauer_speaking_in_2009.jpg/220px-Jon_Krakauer_speaking_in_2009.jpg",
+            "id": 24
+        },
+        {
+            "name": "Jason Ananda Josephson",
+            "id": 25
+        },
+        {
+            "born": "1821-11-11",
+            "name": "Fyodor Dostoyevsky",
+            "education": "Military Engineering-Technical University, St. Petersburg",
+            "nationality": "Russian",
+            "description": "Fyodor Mikhailovich Dostoyevsky, sometimes transliterated Dostoevsky, was a Russian novelist, short story writer, essayist, journalist and philosopher. ",
+            "died": "1881-02-09",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/220px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+            "id": 26
+        },
+        {
+            "born": "1986-11-28",
+            "name": "Mallory Ortberg",
+            "nationality": "American",
+            "description": "Mallory Ortberg is an American author, editor, and a co-founder of the feminist general interest site The Toast. She previously wrote for Gawker and the Hairpin, where she met Toast co-founder Nicole Cliffe. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mallory_Ortberg",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mallory_Ortberg_3.02.15.jpg/220px-Mallory_Ortberg_3.02.15.jpg",
+            "id": 27
+        },
+        {
+            "born": "1899-07-21",
+            "name": "Ernest Hemingway",
+            "died": "1961-07-02",
+            "description": "Ernest Miller Hemingway was an American novelist, short story writer, and journalist. His economical and understated style had a strong influence on 20th-century fiction, while his life of adventure and his public image influenced later generations. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/220px-ErnestHemingway.jpg",
+            "id": 28
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erik_Larson_(author)",
+            "name": "Erik Larson (author)",
+            "description": "Erik Larson is an American journalist and author of nonfiction books. He has written a number of bestsellers, such as The Devil in the White City, about the 1893 World's Columbian Exposition in Chicago and a series of murders by H. H. ",
+            "id": 29
+        },
+        {
+            "born": "1971-09-16",
+            "name": "Amy Poehler",
+            "description": "Amy Poehler is an American actress, comedian, director, producer, voice artist and writer. After studying improv at Chicago's Second City and ImprovOlympic in the early 1990s, she went to New York City in 1996 to become part of the improvisational comedy troupe Upright Citizens Brigade. ",
+            "alma_mater": "Boston College",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Poehler",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amy_Poehler_2012.jpg/220px-Amy_Poehler_2012.jpg",
+            "id": 30
+        },
+        {
+            "born": "544 BC (traditional)\nQi state",
+            "name": "Sun Tzu",
+            "died": "496 BC (traditional)",
+            "description": "Sun Tzu was a Chinese general, military strategist, and philosopher who lived in the Spring and Autumn period of ancient China. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Tzu",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sunzi_%28Chinese_characters%29.svg/130px-Sunzi_%28Chinese_characters%29.svg.png",
+            "id": 31
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+            "name": "14th Dalai Lama",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dalailama1_20121014_4639.jpg/220px-Dalailama1_20121014_4639.jpg",
+            "born": "1935-07-06",
+            "description": "The 14th Dalai Lama /\u02c8d\u0251\u02d0la\u026a \u02c8l\u0251\u02d0m\u0259/, /\u02ccd\u00e6la\u026a \u02c8l\u0251\u02d0m\u0259/ is the current Dalai Lama. Dalai Lamas are important monks of the Gelug school, the newest school of Tibetan Buddhism which is nominally headed by the Ganden Tripas. ",
+            "id": 32
+        },
+        {
+            "born": "1952-05-20",
+            "name": "Walter Isaacson",
+            "description": "Walter Isaacson FRSA is an American writer and journalist. He is the President and CEO of the Aspen Institute, a nonpartisan educational and policy studies organization based in Washington, D.C. ",
+            "alma_mater": "Harvard University\nPembroke College, Oxford",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Isaacson",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Walter_Isaacson_VF_2012_Shankbone_2.JPG/220px-Walter_Isaacson_VF_2012_Shankbone_2.JPG",
+            "id": 33
+        },
+        {
+            "born": "1933-06-14",
+            "name": "Jerzy Kosi\u0144ski",
+            "died": "1991-05-03",
+            "description": "Jerzy Kosi\u0144ski, born J\u00f3zef Lewinkopf, was an award-winning Polish-American novelist and two-time President of the American Chapter of P.E.N., who wrote primarily in English. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jerzy_Kosi%C5%84ski",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jerzy_Kosinsky_%281969%29.jpg/220px-Jerzy_Kosinsky_%281969%29.jpg",
+            "id": 34
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Younge",
+            "name": "Gary Younge",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Younge-Gary.jpg/220px-Younge-Gary.jpg",
+            "born": "1969 (age 46\u201347)",
+            "description": "Gary Younge is a British journalist, author and broadcaster. He is a feature writer and columnist for The Guardian newspaper and writes a monthly column for The Nation, \"Beneath the Radar\".",
+            "id": 35
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rysa_Walker",
+            "name": "Rysa Walker",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rysa_Walker.jpg/225px-Rysa_Walker.jpg",
+            "born": "1961-12-18",
+            "description": "Rysa Walker is the winner of the 2013 Amazon Breakthrough Novel Award and author of novels called Timebound, Time's Edge, and a novella entitled Time's Echo. ",
+            "id": 36
+        },
+        {
+            "born": "1927-10-07",
+            "name": "R. D. Laing",
+            "died": "1989-08-23",
+            "description": "Ronald David Laing, usually cited as R. D. Laing, was a Scottish psychiatrist who wrote extensively on mental illness \u2013 in particular, the experience of psychosis. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/R._D._Laing",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronald_D._Laing.jpg/220px-Ronald_D._Laing.jpg",
+            "id": 37
+        },
+        {
+            "born": "Vladimir Vladimirovich Nabokov\n22 April [O.S. 10 April] 1899a\nSaint Petersburg, Russian Empire",
+            "name": "Vladimir Nabokov",
+            "died": "1977-07-02",
+            "description": "Vladimir Vladimirovich Nabokov was a Russian-American novelist. His first nine novels were in Russian, and he achieved international prominence after he began writing English prose.\n",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Nabokov",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vladimir_Nabokov_1969b.jpg/240px-Vladimir_Nabokov_1969b.jpg",
+            "id": 38
+        },
+        {
+            "born": "1854-10-16",
+            "name": "Oscar Wilde",
+            "education": "Portora Royal School",
+            "nationality": "Irish",
+            "description": "Oscar Fingal O'Flahertie Wills Wilde was an Irish playwright, novelist, essayist, and poet. After writing in different forms throughout the 1880s, he became one of London's most popular playwrights in the early 1890s. ",
+            "alma_mater": "Trinity College, Dublin\nMagdalen College, Oxford",
+            "died": "1900-11-30",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Oscar_Wilde_Sarony.jpg/220px-Oscar_Wilde_Sarony.jpg",
+            "id": 39
+        },
+        {
+            "born": "1930-11-16",
+            "name": "Chinua Achebe",
+            "died": "2013-03-21",
+            "description": "Chinua Achebe was a Nigerian novelist, poet, professor, and critic. His first novel Things Fall Apart is also considered his magnum opus, and is the most widely read book in modern African literature.\n",
+            "nationality": "Nigerian",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chinua_Achebe",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chinua_Achebe_-_Buffalo_25Sep2008_crop.jpg/220px-Chinua_Achebe_-_Buffalo_25Sep2008_crop.jpg",
+            "id": 40
+        },
+        {
+            "born": "1928-06-10",
+            "name": "Maurice Sendak",
+            "nationality": "American",
+            "description": "Maurice Bernard Sendak was an American illustrator and writer of children's books. He became widely known for his book Where the Wild Things Are, first published in 1963. ",
+            "alma_mater": "Art Students League of New York",
+            "died": "2012-05-08",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Sendak",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/1/11/Maurice-Sendak_portrait2.jpg/220px-Maurice-Sendak_portrait2.jpg",
+            "id": 41
+        },
+        {
+            "born": "1929-06-25",
+            "name": "Eric Carle",
+            "nationality": "American",
+            "description": "Eric Carle is an American designer, illustrator, and writer of children's books. He is most famous for The Very Hungry Caterpillar, a picture book with few words that has been translated into more than 62 languages and sold more than 44 million copies. ",
+            "alma_mater": "Academy of Fine Arts Stuttgart\nAcademy of Fine Arts Vienna",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Carle",
+            "id": 42
+        },
+        {
+            "born": "May 23, 1910\nBrooklyn, New York, U.S.",
+            "name": "Margaret Wise Brown",
+            "education": "Dana Hall School, 1928",
+            "nationality": "American",
+            "description": "Margaret Wise Brown was an American writer of children's books, including the picture books Goodnight Moon and The Runaway Bunny, both illustrated by Clement Hurd.",
+            "alma_mater": "Hollins College, 1932",
+            "died": "1952-11-13",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Wise_Brown",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/9/93/Margaret_Wise_Brown.png/220px-Margaret_Wise_Brown.png",
+            "id": 43
+        },
+        {
+            "born": "1920-10-15",
+            "name": "Mario Puzo",
+            "died": "1999-07-02",
+            "description": "Mario Gianluigi Puzo was an American author, screenwriter and journalist. He is known for his crime novels about the Mafia, most notably The Godfather, which he later co-adapted into a three-part film saga directed by Francis Ford Coppola. ",
+            "nationality": "American (Italo-American)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mario_Puzo",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Mario_Puzo.jpg/220px-Mario_Puzo.jpg",
+            "id": 44
+        },
+        {
+            "born": "1903-06-25",
+            "name": "George Orwell",
+            "died": "1950-01-21",
+            "description": "Eric Arthur Blair, who used the pen name George Orwell, was an English novelist, essayist, journalist and critic. His work is marked by lucid prose, awareness of social injustice, opposition to totalitarianism, and outspoken support of democratic socialism.\n",
+            "alma_mater": "Eton College",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Orwell",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/George_Orwell_press_photo.jpg/220px-George_Orwell_press_photo.jpg",
+            "id": 45
+        },
+        {
+            "born": "1917-02-25",
+            "name": "Anthony Burgess",
+            "education": "B.A. English",
+            "nationality": "English",
+            "description": "John Anthony Burgess Wilson, FRSL \u2013 who published under the pen name Anthony Burgess \u2013 was an English writer and composer. From relatively modest beginnings in a Catholic family in Manchester, he eventually became one of the best known English literary figures of the latter half of the twentieth century.\n",
+            "alma_mater": "Victoria University of Manchester",
+            "died": "1993-11-22",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgess1.jpg/220px-Burgess1.jpg",
+            "id": 46
+        },
+        {
+            "born": "1900-06-29",
+            "name": "Antoine de Saint-Exup\u00e9ry",
+            "education": "Villa St. Jean International School",
+            "nationality": "French",
+            "description": "Antoine Marie Jean-Baptiste Roger, comte de Saint-Exup\u00e9ry was a French writer, poet, aristocrat, journalist, and pioneering aviator. He became a laureate of several of France's highest literary awards and also won the U.S. National Book Award. ",
+            "died": "1944-07-31",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/11exupery-inline1-500.jpg/275px-11exupery-inline1-500.jpg",
+            "id": 47
+        },
+        {
+            "born": "1896-09-24",
+            "name": "F. Scott Fitzgerald",
+            "education": "Princeton University (no degree)",
+            "nationality": "American",
+            "description": "Francis Scott Key Fitzgerald, known professionally as F. Scott Fitzgerald, was an American novelist and short story writer, whose works illustrate the Jazz Age. He is widely regarded as one of the greatest American writers of the 20th century. Fitzgerald is considered a member of the 'Lost Generation' of the 1920s. ",
+            "died": "1940-12-21",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/F_Scott_Fitzgerald_1921.jpg/220px-F_Scott_Fitzgerald_1921.jpg",
+            "id": 48
+        },
+        {
+            "born": "1892-01-03",
+            "name": "J. R. R. Tolkien",
+            "nationality": "British",
+            "description": "John Ronald Reuel Tolkien CBE FRSL, known by his pen name J. R. R. Tolkien, was an English writer, poet, philologist, and university professor who is best known as the author of the classic high-fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion.\n",
+            "alma_mater": "Exeter College, Oxford",
+            "died": "1973-09-02",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tolkien_1916.jpg/220px-Tolkien_1916.jpg",
+            "id": 49
+        },
+        {
+            "born": "Stratford-upon-Avon, Warwickshire, England",
+            "name": "William Shakespeare",
+            "died": "23 April 1616 (aged 52)\nStratford-upon-Avon, Warwickshire, England",
+            "description": "William Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world\"s pre-eminent dramatist. He is often called England\"s national poet, and the \"Bard of Avon\". ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/220px-Shakespeare.jpg",
+            "id": 50
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meg_Cabot",
+            "name": "Meg Cabot",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/b/bf/Megcabot-signing.png",
+            "born": "1967-02-01",
+            "description": "Meg Cabot is an American author of romantic and paranormal fiction for teens and adults and used to write under several pen names, but now writes exclusively under her real name. ",
+            "id": 51
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Markus_Zusak",
+            "name": "Markus Zusak",
+            "born": "1975-06-23",
+            "description": "Markus Frank Zusak is an Australian writer. He is best known for The Book Thief and The Messenger, two novels for young adults which have been international best-sellers. ",
+            "id": 52
+        },
+        {
+            "born": "1930-09-25",
+            "name": "Shel Silverstein",
+            "died": "1999-05-10",
+            "description": "Sheldon Allan \"Shel\" Silverstein was an American poet, singer-songwriter, cartoonist, screenwriter, and author of children\"s books. He styled himself as Uncle Shelby in some works. Translated into more than 30 languages, his books have sold over 20 million copies. He was the recipient of two Grammy Awards, as well as a Golden Globe and Academy Award nominee.",
+            "nationality": "American",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shel_Silverstein",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Ssilverstein.jpg/220px-Ssilverstein.jpg",
+            "id": 53
+        },
+        {
+            "born": "1904-03-02",
+            "name": "Dr. Seuss",
+            "died": "1991-09-24",
+            "description": "Theodor Seuss Geisel was an American writer, cartoonist, animator, book publisher, and artist best known for authoring children's books under the pen name Dr. Seuss. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dr._Seuss",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ted_Geisel_NYWTS_2_crop.jpg/220px-Ted_Geisel_NYWTS_2_crop.jpg",
+            "id": 54
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joshua_Waitzkin",
+            "name": "Joshua Waitzkin",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Joshua_Waitzkin.jpg/220px-Joshua_Waitzkin.jpg",
+            "born": "1976-12-04",
+            "description": "Joshua Waitzkin is an American chess player, martial arts competitor, and author. As a child, he was recognized as a prodigy, and won the U.S. Junior Chess championship in 1993 and 1994. He is the only person to have won the National Primary, Elementary, Junior High School, High School, U.S. Cadet, and U.S. Junior Closed chess championships in his career. The movie Searching for Bobby Fischer is based on his early life.",
+            "id": 55
+        },
+        {
+            "born": "1977-07-20",
+            "name": "Tim Ferriss",
+            "description": "Timothy \"Tim\" Ferriss is an American author, entrepreneur and public speaker. He has written a number of self-help books which have appeared on the New York Times, Wall Street Journal, and USA Today bestseller lists, starting with The 4-Hour Workweek.\n",
+            "alma_mater": "Princeton University",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Ferriss",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Timothy_Ferriss.jpg/220px-Timothy_Ferriss.jpg",
+            "id": 56
+        },
+        {
+            "born": "1972-05-22",
+            "name": "Max Brooks",
+            "nationality": "American",
+            "description": "Maximillian Michael Brooks is an American horror author and screenwriter. He is the son of comedy filmmaker Mel Brooks and actress Anne Bancroft. Brooks's writing focuses on zombie stories. Brooks is also a television and voice-over actor.",
+            "alma_mater": "Pitzer College (B.A.)\nAmerican University (1994)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Brooks",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Max_Brooks_%285774439810%29.jpg/220px-Max_Brooks_%285774439810%29.jpg",
+            "id": 57
+        },
+        {
+            "born": "1974-07-14",
+            "name": "David Mitchell (comedian)",
+            "education": "Modern history",
+            "description": "David James Stuart Mitchell is a British comedian, actor and writer. He is half of the comedy duo Mitchell and Webb alongside Robert Webb. The duo starred in the Channel 4 sitcom Peep Show in which Mitchell plays Mark Corrigan. ",
+            "alma_mater": "Abingdon School\nPeterhouse, Cambridge",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Mitchell_(comedian)",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/David_mitchell.jpg/220px-David_mitchell.jpg",
+            "id": 58
+        },
+        {
+            "born": "1963-09-03",
+            "name": "Malcolm Gladwell",
+            "description": "Malcolm Timothy Gladwell CM is an English-born Canadian journalist, author, and speaker. He has been a staff writer for The New Yorker since 1996. ",
+            "alma_mater": "Trinity College, Toronto",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malcolm_Gladwell",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Malcolmgladwell.jpg/220px-Malcolmgladwell.jpg",
+            "id": 59
+        },
+        {
+            "born": "1967-05-29",
+            "name": "Steven Levitt",
+            "nationality": "American",
+            "description": "Steven David \"Steve\" Levitt is an American economist known for his work in the field of crime, in particular on the link between legalized abortion and crime rates. Winner of the 2003 John Bates Clark Medal, he is currently the William B. ",
+            "alma_mater": "Harvard University (A.B.)\nMIT (Ph.D.)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Levitt",
+            "id": 60
+        },
+        {
+            "born": "1937-07-04",
+            "name": "Richard Rhodes",
+            "nationality": "American",
+            "description": "Richard Lee Rhodes is an American historian, journalist and author of both fiction and non-fiction, including the Pulitzer Prize-winning The Making of the Atomic Bomb, and most recently, The Twilight of the Bombs.\n",
+            "alma_mater": "Yale University",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Rhodes",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Richard_Rhodes.jpg/200px-Richard_Rhodes.jpg",
+            "id": 61
+        },
+        {
+            "born": "1809-02-12",
+            "name": "Charles Darwin",
+            "died": "1882-04-19",
+            "description": "Charles Robert Darwin, FRS FRGS FLS FZS was an English naturalist and geologist, best known for his contributions to the science of evolution. ",
+            "nationality": "British",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/220px-Charles_Darwin_seated_crop.jpg",
+            "id": 62
+        },
+        {
+            "born": "1942-01-08",
+            "name": "Stephen Hawking",
+            "nationality": "British",
+            "description": "Stephen William Hawking, CH, CBE, FRS, FRSA is an English theoretical physicist, cosmologist, author and Director of Research at the Centre for Theoretical Cosmology within the University of Cambridge. ",
+            "alma_mater": "University College, Oxford (BA, 1962)\nTrinity Hall, Cambridge (PhD, 1965)",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg",
+            "id": 63
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Bryson",
+            "name": "Bill Bryson",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bill_Bryson_edit.jpg/220px-Bill_Bryson_edit.jpg",
+            "born": "1951-12-08",
+            "description": "William McGuire \"Bill\" Bryson OBE FRS is a best-selling Anglo-American author of books on travel, the English language, science, and other non-fiction topics. ",
+            "id": 64
+        },
+        {
+            "born": "17 April 1885\nRungsted, Denmark",
+            "name": "Karen Blixen",
+            "died": "1962-09-07",
+            "description": "Baroness Karen von Blixen-Finecke, n\u00e9e Karen Christenze Dinesen, was a Danish author, also known by the pen name Isak Dinesen, who wrote works in Danish, French and English. She also at times used the pen names Tania Blixen, Osceola, and Pierre Andr\u00e9zel.\n",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Blixen",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Karen_Blixen.jpg/220px-Karen_Blixen.jpg",
+            "id": 65
+        },
+        {
+            "born": "1960-11-10",
+            "name": "Neil Gaiman",
+            "nationality": "British",
+            "description": "Neil Richard MacKinnon Gaiman is an English author of short fiction, novels, comic books, graphic novels, audio theatre, and films. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neil_Gaiman",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kyle-cassidy-neil-gaiman-April-2013.jpg/220px-Kyle-cassidy-neil-gaiman-April-2013.jpg",
+            "id": 66
+        },
+        {
+            "born": "1959-10-07",
+            "name": "Steven Erikson",
+            "nationality": "Canadian",
+            "description": "Steven Erikson is the pseudonym of Steve Rune Lundin, a Canadian novelist, who was educated and trained as both an archaeologist and anthropologist.\n",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Erikson",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Steven_Erikson_2016.jpg/179px-Steven_Erikson_2016.jpg",
+            "id": 67
+        }
+    ]
+}

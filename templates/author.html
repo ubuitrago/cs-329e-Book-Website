@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <img src="{{ author.imageURL}}">
+    <div class="card">
+        <div class="card-header">
+            {{ author.name }}
+        </div>
+        <div class="card-body">
+            <p class="card-text">Nationality: {{ author.nationality }}</p>
+            <p class="card-text">Year of Birth: {{ author.yearOfBirth }}</p>
+            <p class="card-text">Alma Mater: {{ author.almaMater }}</p>
+            <p class="card-text">Education: {{ author.education }}</p>
+            {% for book in books_data %}
+            <!-- {% if book.authorID == author.id %} -->
+                    <p>{{book.title}}</p>
+            <!-- {% endif %} -->
+            {% endfor %}
+      
+        </div>
+    </div>
+</div>
+
+{% endblock %}

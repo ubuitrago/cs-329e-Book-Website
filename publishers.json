@@ -1,0 +1,413 @@
+{
+    "publishers_data": [
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottermore",
+            "name": "Pottermore",
+            "description": "Pottermore is the digital publishing, e-commerce, entertainment, and news company from J.K. Rowling and is the global digital publisher of Harry Potter and J.K. Rowling's Wizarding World.",
+            "owner": "J. K. Rowling",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Pottermore.png/225px-Pottermore.png",
+            "website": "http://www.pottermore.com\nshop.pottermore.com",
+            "id": 0
+        },
+        {
+            "founded": "1986-09-26",
+            "name": "Bloomsbury Publishing",
+            "location": "London",
+            "description": "Bloomsbury Publishing Plc is a British independent, worldwide publishing house of fiction and non-fiction. It is a constituent of the FTSE SmallCap Index. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bloomsbury_Publishing",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bloomsbury-publishing-logo.PNG/300px-Bloomsbury-publishing-logo.PNG",
+            "website": "http://Bloomsbury",
+            "id": 1
+        },
+        {
+            "founded": "1920-10-22",
+            "name": "Scholastic Corporation",
+            "location": "557 Broadway New York City, New York 10012, New York, The USA",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scholastic_Corporation",
+            "description": "Scholastic Corporation is an American publishing, education and media company known for publishing, selling, and distributing books and educational materials for schools, teachers, parents, and children. ",
+            "owner": "Scholastic Corporation",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Scholastic_Headquarters_by_Matthew_Bisanz.JPG/240px-Scholastic_Headquarters_by_Matthew_Bisanz.JPG",
+            "website": "http://www.scholastic.com",
+            "id": 2
+        },
+        {
+            "founded": "2000",
+            "name": "Palgrave Macmillan",
+            "location": "London",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Palgrave_Macmillan",
+            "description": "Palgrave Macmillan is an international academic and trade publishing company. Its programme includes textbooks, journals, monographs, professional and reference works in print and online.\nPalgrave Macmillan was created in 2000 when St. ",
+            "parent_company": "Springer Nature",
+            "website": "http://www.palgrave.com",
+            "id": 3
+        },
+        {
+            "founded": "1924",
+            "name": "Simon & Schuster",
+            "location": "1230 Avenue of the Americas\nRockefeller Center,\nNew York City, New York",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_%26_Schuster",
+            "description": "Simon &amp; Schuster, Inc., a division of CBS Corporation, is a publisher founded in New York City in 1924 by Richard L. Simon and M. Lincoln Schuster. It is one of the largest English-language publishers, formerly known as the \"Big 6\", now known as the \"Big Five\". It publishes over 2,000 titles annually under 35 different imprints.",
+            "parent_company": "CBS Corporation",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/d/db/Simon_and_Schuster.svg/200px-Simon_and_Schuster.svg.png",
+            "website": "http://www.simonandschuster.com",
+            "id": 4
+        },
+        {
+            "founded": "1927",
+            "name": "Victor Gollancz Ltd",
+            "location": "London",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Gollancz_Ltd",
+            "description": "Victor Gollancz Ltd was a major British book publishing house of the twentieth century. It was founded in 1927 by Victor Gollancz and specialised in the publication of high quality literature, nonfiction and popular fiction, including crime, detective, mystery, thriller and science fiction. ",
+            "parent_company": "Orion Publishing Group",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Victor-gollancz-logo.png/100px-Victor-gollancz-logo.png",
+            "website": "http://www.gollancz.co.uk",
+            "id": 5
+        },
+        {
+            "founded": "1935",
+            "name": "Penguin Group",
+            "location": "City of Westminster, London",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Penguin_Group",
+            "description": "The Penguin Group is a trade book publisher, part of Penguin Random House. It is owned by Pearson PLC, the global education and publishing company, and Bertelsmann, the German media conglomerate. ",
+            "parent_company": "Penguin Random House",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Penguin_logo.svg/150px-Penguin_logo.svg.png",
+            "website": "http://PenguinGroup.com",
+            "id": 6
+        },
+        {
+            "location": "New York City, New York",
+            "name": "Bantam Spectra",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bantam_Spectra",
+            "description": "Bantam Spectra is the science-fiction division of Bantam Books, which is owned by Random House.\nAccording to their website, Spectra publishes \"science-fiction, fantasy, horror, and speculative novels from recognizable authors\". ",
+            "parent_company": "Bantam Books/Random House",
+            "website": "http://sf-fantasy.suvudu.com",
+            "id": 7
+        },
+        {
+            "founded": "1989",
+            "name": "HarperCollins",
+            "location": "195 Broadway\nNew York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/HarperCollins",
+            "description": "HarperCollins Publishers LLC is one of the world\"s largest publishing companies and is part of the \"Big Five\" English-language publishing companies, alongside Hachette, Holtzbrinck/Macmillan, Penguin Random House, and Simon &amp; Schuster. ",
+            "parent_company": "News Corp",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/0/00/Harpercollins-logo.svg/250px-Harpercollins-logo.svg.png",
+            "website": "http://harpercollins.com",
+            "id": 8
+        },
+        {
+            "founded": "1977",
+            "name": "Del Rey Books",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Del_Rey_Books",
+            "description": "Del Rey Books is a branch of Ballantine Books, which is owned by Random House and, in turn, by Penguin Random House. It is a separate imprint established in 1977 under the editorship of author Lester del Rey and his wife Judy-Lynn del Rey. ",
+            "owner": "Penguin Random House",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Del_Rey_logo.png/150px-Del_Rey_logo.png",
+            "website": "http://sf-fantasy.suvudu.com",
+            "parent_company": "Random House",
+            "id": 9
+        },
+        {
+            "founded": "1927",
+            "name": "Random House",
+            "location": "Random House Tower, New York City, New York, United States",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Random_House",
+            "description": "Random House is the largest general-interest paperback publisher in the world. As of 2013, it is part of Penguin Random House, which is jointly owned by German media conglomerate Bertelsmann and British global education and publishing company Pearson PLC.",
+            "parent_company": "Penguin Random House",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png",
+            "website": "http://randomhouse.com",
+            "id": 10
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_Books",
+            "name": "Pan Books",
+            "description": "Pan Books is a publishing imprint that first became active in the 1940s and is now part of the British-based Macmillan Publishers, owned by the Georg von Holtzbrinck Publishing Group of Germany.\n",
+            "id": 11
+        },
+        {
+            "founded": "1926",
+            "name": "William Morrow and Company",
+            "location": "New York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Morrow_and_Company",
+            "description": "William Morrow and Company is an American publishing company founded by William Morrow in 1926. The company was acquired by Scott Foresman in 1967, sold to Hearst Corporation in 1981, and sold to News Corporation in 1999. ",
+            "parent_company": "HarperCollins",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/William_Morrow_logo.png/130px-William_Morrow_logo.png",
+            "website": "http://www.harpercollins.com",
+            "id": 12
+        },
+        {
+            "name": "Turtleback Books",
+            "id": 13
+        },
+        {
+            "name": "RosettaBooks",
+            "id": 14
+        },
+        {
+            "founded": "1989",
+            "name": "Feral House",
+            "location": "Port Townsend, Washington",
+            "description": "Feral House is a book publisher owned and operated by Adam Parfrey. Feral House describes itself as \"publishing innovative and celebrated non-fiction books since 1989.\" ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Feral_House",
+            "website": "http://feralhouse.com",
+            "id": 15
+        },
+        {
+            "founded": "1980",
+            "name": "Tor Books",
+            "location": "Flatiron Building, New York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_Books",
+            "description": "Tor Books is the primary imprint of Tom Doherty Associates LLC publishing company, based in New York City, US. It is noted for its science fiction and fantasy titles, and publishes the online science fiction magazine Tor.com.",
+            "parent_company": "Macmillan",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Tor-Logo1.jpg/200px-Tor-Logo1.jpg",
+            "website": "http://us.macmillan.com/torforge",
+            "id": 16
+        },
+        {
+            "founded": "1925",
+            "name": "Viking Press",
+            "location": "New York City, New York",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Viking_Press",
+            "description": "Viking Press is an American publishing company now owned by Penguin Random House. It was founded in New York City on March 1, 1925, by Harold K. Guinzburg and George S. Oppenheim and then acquired by the Penguin Group in 1975.\n",
+            "parent_company": "Penguin Random House",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/f/fa/Viking-press-logo.jpg",
+            "website": "http://penguin.com",
+            "id": 17
+        },
+        {
+            "name": "Hachette UK",
+            "id": 18
+        },
+        {
+            "founded": "1954",
+            "name": "Vintage Books",
+            "location": "New York, New York",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vintage_Books",
+            "description": "Vintage Books is a publishing imprint established in 1954 by Alfred A. Knopf.\nThe company was purchased by Random House publishing in April 1960, and is currently a subdivision of Random House. In 1990, Vintage UK was set up in the United Kingdom.",
+            "parent_company": "Knopf Doubleday Publishing Group (Random House)",
+            "website": "http://vintage-anchor.knopfdoubleday.com",
+            "id": 19
+        },
+        {
+            "name": "Hot Key Books",
+            "id": 20
+        },
+        {
+            "founded": "1914 (British arm) 1976 (Australia)",
+            "name": "Allen & Unwin",
+            "location": "Crows Nest, New South Wales",
+            "description": "Allen &amp; Unwin is an Australian independent publishing company, established in Australia in 1976 as a subsidiary of the British firm George Allen &amp; Unwin Ltd., which was founded by Sir Stanley Unwin in August 1914 and went on to become one of the leading publishers of the twentieth century.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Allen_%26_Unwin",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Allen-unwin-logo.PNG/200px-Allen-unwin-logo.PNG",
+            "website": "http://allenandunwin.com",
+            "id": 21
+        },
+        {
+            "founded": "1945",
+            "name": "Bantam Books",
+            "location": "New York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bantam_Books",
+            "description": "Bantam Books is an American publishing house owned entirely by parent_company Random House, a subsidiary of Penguin Random House; it is an imprint of the Random House Publishing Group. It was formed in 1945 by Walter B. Pitkin, Jr., Sidney B. Kramer, and Ian and Betty Ballantine. ",
+            "parent_company": "Random House",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bantam_Logo.png/100px-Bantam_Logo.png",
+            "website": "http://bantam-dell.atrandom.com",
+            "id": 22
+        },
+        {
+            "founded": "16th century",
+            "name": "Oxford University Press",
+            "location": "Oxford",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oxford_University_Press",
+            "description": "Oxford University Press is the largest university press in the world, and the second oldest after Cambridge University Press. It is a department of the University of Oxford and is governed by a group of 15 academics appointed by the vice-chancellor known as the delegates of the press. ",
+            "parent_company": "University of Oxford",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OUP_logo.svg/255px-OUP_logo.svg.png",
+            "website": "http://oup.com",
+            "id": 23
+        },
+        {
+            "founded": "1897",
+            "name": "Doubleday (publisher)",
+            "location": "New York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Doubleday_(publisher)",
+            "description": "Doubleday is an American publishing company founded as Doubleday &amp; McClure Company in 1897 that by 1947 was the largest in the United States. ",
+            "parent_company": "Knopf Doubleday Publishing Group (Random House)",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Doubleday_Publishing.png/240px-Doubleday_Publishing.png",
+            "website": "http://doubleday.knopfdoubleday.com",
+            "id": 24
+        },
+        {
+            "founded": "1891",
+            "name": "University of Chicago Press",
+            "location": "Chicago",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Chicago_Press",
+            "description": "The University of Chicago Press is the largest and one of the oldest university presses in the United States.",
+            "parent_company": "University of Chicago",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/University_of_Chicago_Press_logo.jpg/220px-University_of_Chicago_Press_logo.jpg",
+            "website": "http://press.uchicago.edu",
+            "id": 25
+        },
+        {
+            "name": "BookRix",
+            "id": 26
+        },
+        {
+            "founded": "1948",
+            "name": "Holtzbrinck Publishing Group",
+            "location": "Stuttgart",
+            "description": "Holtzbrinck Publishing Group is a privately-held Stuttgart-based company which owns publishing companies worldwide. The company has published a wide variety of books, from The Satanic Verses by Salman Rushdie to classics by Agatha Christie, Jean-Paul Sartre, Ernest Hemingway and John Updike. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Holtzbrinck_Publishing_Group",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Verlagsgruppe_Georg_von_Holtzbrinck_logo.svg/250px-Verlagsgruppe_Georg_von_Holtzbrinck_logo.svg.png",
+            "website": "http://Holtzbrinck.com",
+            "id": 27
+        },
+        {
+            "name": "Mundus Publishing",
+            "id": 28
+        },
+        {
+            "name": "ReadHowYouWant.com",
+            "id": 29
+        },
+        {
+            "founded": "1951",
+            "name": "Grove Press",
+            "location": "New York City, New York",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Grove_Press",
+            "description": "Grove Press is an American publishing imprint that was founded in 1947. Imprints include: Black Cat, Evergreen, Venus Library, and Zebra. Barney Rosset purchased the company in 1951 and turned it into an alternative book press in the United States. He partnered with Richard Seaver to bring French literature to the United States. The Atlantic Monthly Press, under the aegis of its publisher, Morgan Entrekin, merged with Grove Press in 1991. Grove later became an imprint of the publisher Grove/Atlantic, Inc.",
+            "parent_company": "Grove/Atlantic",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/f/f9/Grovepress_logo.png",
+            "website": "http://groveatlantic.com",
+            "id": 30
+        },
+        {
+            "founded": "1996",
+            "name": "Perseus Books Group",
+            "location": "New York City, New York",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perseus_Books_Group",
+            "description": "Perseus Books Group was an American publishing company founded in 1996 by investor Frank Pearl. It was named Publisher of the Year in 2007 by Publishers Weekly magazine for its role in taking on publishers formerly distributed by Publishers Group West and acquiring Avalon Publishing Group. ",
+            "parent_company": "Perseus LLC - Lagard\u00e8re SCA",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Perseus_Books_Group_Logo.png/220px-Perseus_Books_Group_Logo.png",
+            "website": "http://perseusbooksgroup.com",
+            "id": 31
+        },
+        {
+            "founded": "2009",
+            "name": "Amazon Publishing",
+            "location": "Seattle, Washington",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Skyscape_(imprint)",
+            "description": "",
+            "parent_company": "Amazon.com",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/8/83/Amazon_Publishing_Logo.png/220px-Amazon_Publishing_Logo.png",
+            "website": "http://www.apub.com/",
+            "id": 32
+        },
+        {
+            "name": "Createspace Independent Publishing Platform",
+            "id": 33
+        },
+        {
+            "founded": "1988",
+            "name": "Kessinger Publishing",
+            "location": "Whitefish, Montana",
+            "description": "Kessinger Publishing LLC is an American print on demand publishing company located in Whitefish, Montana that specializes in rare, out of print books.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kessinger_Publishing",
+            "website": "http://www.kessinger.net",
+            "id": 34
+        },
+        {
+            "founded": "1919",
+            "name": "Fawcett Publications",
+            "description": "Fawcett Publications was an American publishing company founded in 1919 in Robbinsdale, Minnesota by Wilford Hamilton \"Captain Billy\" Fawcett. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fawcett_Publications",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Whizbang_april1921.jpg/220px-Whizbang_april1921.jpg",
+            "website": "http://dccomics.com",
+            "id": 35
+        },
+        {
+            "name": "Arcturus Publishing",
+            "id": 36
+        },
+        {
+            "founded": "1923",
+            "name": "W. W. Norton & Company",
+            "location": "500 Fifth Avenue, New York City, New York",
+            "description": "W. W. Norton &amp; Company is an American publishing company based in New York City. It has been owned wholly by its employees since the early 1960s. ",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/W._W._Norton_%26_Company",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0c/WWNorton-Logo.png/180px-WWNorton-Logo.png",
+            "website": "http://wwnorton.com",
+            "id": 37
+        },
+        {
+            "founded": "1919",
+            "name": "Harcourt (publisher)",
+            "location": "San Diego, California",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harcourt_(publisher)",
+            "description": "Harcourt was a United States publishing firm with a long history of publishing fiction and nonfiction for children and adults. The company was last based in San Diego, California, with Editorial / Sales / Marketing / Rights offices in New York City and Orlando, Florida. ",
+            "parent_company": "falonn",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/6/67/Harcourtlogo.jpg",
+            "id": 38
+        },
+        {
+            "name": "Hayes Barton Press",
+            "id": 39
+        },
+        {
+            "founded": "1832",
+            "name": "Houghton Mifflin Harcourt",
+            "location": "Boston, Massachusetts",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Houghton_Mifflin_Harcourt",
+            "description": "Houghton Mifflin Harcourt is an educational and trade publisher in the United States. Headquartered in Boston's Back Bay, it publishes textbooks, instructional technology materials, assessments, reference works, and fiction and non-fiction for both young readers and adults.",
+            "parent_company": "Vivendi (2001\u20132002)",
+            "image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Houghton_MHarcourt_2012logo.png/220px-Houghton_MHarcourt_2012logo.png",
+            "website": "http://www.hmhco.com",
+            "id": 40
+        },
+        {
+            "founded": "1941",
+            "name": "Barron's Educational Series",
+            "location": "Hauppauge, New York",
+            "description": "Barron's Educational Series, Inc. is an American test preparation company, founded in 1941 as a publisher of materials to help students to prepare for college entrance examinations, and that offers online college entrance exam preparation classes.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Barron%27s_Educational_Series",
+            "website": "http://www.barronseduc.com",
+            "id": 41
+        },
+        {
+            "founded": "1915",
+            "name": "Alfred A. Knopf",
+            "location": "New York City, New York, U.S.",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_A._Knopf",
+            "description": "Alfred A. Knopf, Inc. is a New York publishing house that was founded by Alfred A. Knopf Sr. in 1915. The publisher had a reputation for a pursuit of perfection and elegant taste. ",
+            "parent_company": "Knopf Doubleday Publishing Group",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/a/a5/BorzoiLOGO.png",
+            "website": "http://knopf.knopfdoubleday.com",
+            "id": 42
+        },
+        {
+            "name": "RH Childrens Books",
+            "id": 43
+        },
+        {
+            "founded": "1837",
+            "name": "Little, Brown and Company",
+            "location": "New York City",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Little,_Brown_and_Company",
+            "description": "Little, Brown and Company is an American publisher founded in 1837 by Charles Coffin Little and his partner, James Brown, and for close to two centuries has published fiction and nonfiction by American authors. ",
+            "parent_company": "Hachette Book Group USA",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Little-Brown-Company-logo.PNG/200px-Little-Brown-Company-logo.PNG",
+            "website": "http://www.littlebrown.com",
+            "id": 44
+        },
+        {
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Everyman's_Library",
+            "name": "Everyman's Library",
+            "description": "Everyman's Library is a series of reprinted classic literature currently published in hardback by Random House. It was originally an imprint of J. M. Dent, who continue to publish Everyman Classics in paperback.\nJ. M. Dent and Company began to publish the series in 1906. ",
+            "id": 45
+        },
+        {
+            "founded": "2002",
+            "name": "Lulu (company)",
+            "description": "Lulu Press, Inc. is an online print-on-demand, self-publishing and distribution platform. Since its founding in 2002, Lulu has published nearly two million titles by authors in over 225 countries and territories.\n",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lulu_(company)",
+            "image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/5/52/Lulu_logo.svg/220px-Lulu_logo.svg.png",
+            "website": "http://Official website",
+            "id": 46
+        }
+    ]
+}

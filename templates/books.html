@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<table id="sort" class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      {% for item in books_head %}
+      <th>
+        <b>{{ item }}</b>
+      </th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for book in books_data %}
+    <tr>
+      <td><img style="width:100px;" src="{{ book.imageURL }}"></td>
+      <td><a href="./{{book.id}}">{{ book.title }}</a></td>
+      <td>{{ book.isbn }}</td>
+      <td>{{ book.pubDate }}</td>
+      <td><a href="/publishers/{{book.pubID}}">{{ book.publisher }}</a></td>
+      <td><a href="/authors/{{book.authorID}}">{{ book.author}}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+
+</table>
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<table id="sort" class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      {% for item in authors_head %}
+      <th>
+        <b>{{ item }}</b>
+      </th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for author in authors_data %}
+    <tr>
+      <td><img style="width:150px; height: 150px; object-fit: cover;" src="{{ author.imageURL }}"></td>
+      <td><a href="./{{author.id}}">{{ author.name }}</a></td>
+      <td>{{ author.nationality }}</td>
+      <td>{{ author.yearOfBirth }}</td>
+      <td>{{ author.almaMater }}</td>
+      <td>{{ author.education }}</td>
+      <td>{{ author.website }}</td>
+      <td>
+        {% for book in books_data %}
+            <!-- {% if book.authorID == author.id %} -->
+                {{book.title}}
+            <!-- {% endif %} -->
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+
+</table>
+
+{% endblock %}

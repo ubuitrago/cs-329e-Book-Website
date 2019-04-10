@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <img style="width:200px;" src="{{ book.imageURL }}">
+    <div class="card">
+        <div class="card-header">
+            {{ book.title }}
+        </div>
+        <div class="card-body">
+            <p> Author: <a href="/authors/{{book.authorID}}">{{ book.author}}</a></p>
+            <p class="card-text">ISBN: {{ book.isbn }}</p>
+            <p class="card-text">Publication Date: {{ book.pubDate }}</p>
+            <p class="card-text">Publisher: <a href="/publishers/{{book.pubID}}">{{ book.publisher }}</a></p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
